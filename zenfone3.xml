@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/asus/zenfone3" name="sailfish-on-zenfone3/android_device_asus_zenfone3" revision="lineage-16.0" />
+  <project path="vendor/asus" name="sailfish-on-zenfone3/proprietary_vendor_asus" revision="lineage-16.0" />
+  <project path="kernel/asus/msm8953" name="sailfish-on-zenfone3/android_kernel_asus_msm8953" revision="lineage-16.0" />
+</manifest>
